@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "259180F0-4DFE-47C8-9810-38FB8B81341B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4E63A78-E769-42CA-AB44-D2B307D473CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MvvmDemoApp/Services/HttpUtility.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "postApiData(requestUrl:requestBody:resultType:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B4E63A78-E769-42CA-AB44-D2B307D473CF - bd162a18d5ad1fff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MvvmDemoApp.HttpUtility.postApiData&lt;A where A: Swift.Decodable&gt;(requestUrl: Foundation.URL, requestBody: Foundation.Data, resultType: A.Type, completionHandler: (A) -&gt; ()) -&gt; ()"
+                  moduleName = "MvvmDemoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragulkts/Ragul/Youtube-tutorial-master/MvvmDemoApp/MvvmDemoApp/Services/HttpUtility.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "654">
+               </Location>
+               <Location
+                  uuid = "B4E63A78-E769-42CA-AB44-D2B307D473CF - 6b3375847a9363d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MvvmDemoApp.HttpUtility.postApiData&lt;A where A: Swift.Decodable&gt;(requestUrl: Foundation.URL, requestBody: Foundation.Data, resultType: A.Type, completionHandler: (A) -&gt; ()) -&gt; ()"
+                  moduleName = "MvvmDemoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ragulkts/Ragul/Youtube-tutorial-master/MvvmDemoApp/MvvmDemoApp/Services/HttpUtility.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "202">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
